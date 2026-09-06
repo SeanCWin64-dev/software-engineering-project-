@@ -1,1 +1,2 @@
 This is a readme file.
+I choose Computer Science as my major because I was obsessed with video games and technology back then I spent a fraction of middle school and early high school making mockups of Super Mario fangames and other graphics, hoping one day I would become a game developer. From this class, I hope to learn how to develop software more effectively, collaborate with peers, and use professional development tools such as GitHub and version control.
